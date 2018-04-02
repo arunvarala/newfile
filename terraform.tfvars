@@ -1,3 +1,3 @@
-AWS_ACCESS_KEY = "AKIAIP7W2U5WLWHR5X3Q"
-AWS_SECRET_KEY = "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"
+AWS_ACCESS_KEY = "xxxxxxxxxxxxxx"
+AWS_SECRET_KEY = "xxxxxxxxxxxxxxxx"
 
